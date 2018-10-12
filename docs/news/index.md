@@ -1,29 +1,41 @@
 # News
 
-## **Featured**
+[**Analysis of Chainlink**]( https://medium.com/@jonnyhuxtable/analysis-of-chainlink-the-decentralised-oracle-network-7c69bee2345f ) | [**Espresso team update**]( https://medium.com/espresso-org/espresso-team-update-halfway-through-our-first-milestone-7ff752f9adb0 ) | [**A Blockchain Perspective on Three Product #BUIDL’ing Motivations**]( https://blog.aragon.one/a-blockchain-perspective-on-three-product-buidling-motivations/ )
+|:-----------:|:-----------:|:-----------:|
+_Author: [Jonny Huxtable]( https://medium.com/@jonnyhuxtable ) on SEP 4_ | _Author: [Mathew Cormier]( https://medium.com/@mathew.corm ) on SEP 4_ | _Author: [Chris Remus]( https://blog.aragon.one/author/chris/ ) on SEP 4_
+**Analysis of Chainlink — The Decentralised Oracle Network** In this article, I’m going to be deep diving into Chainlink. From giving the problem it’s aiming to solve; the solution they’re currently developing for that problem and my own deep-dive into the technology they’ve built so far. | **Espresso Team Update: Halfway Through Our First Milestone!** We’ve been working hard on the Datastore and Drive App for the last four weeks and since our first sprint just ended a couple days ago, we thought it would be a good time to post our first Espresso Team update! | **"I've been thinking a lot about what motivates those of us BUIDLing blockchain products."** Three types of motivation keep emerging in my consciousness and daily experience. Each type has its own attractions and difficulties. This post will explain my perspective on the three.
+[Read More](https://medium.com/@jonnyhuxtable/analysis-of-chainlink-the-decentralised-oracle-network-7c69bee2345f) | [Read More](https://medium.com/espresso-org/espresso-team-update-halfway-through-our-first-milestone-7ff752f9adb0) | [Read More](https://blog.aragon.one/a-blockchain-perspective-on-three-product-buidling-motivations/)
 
-[<h2>Title</h2>](URI_to_news) |
-:-----------|
-[_Tag_](tag.md) |
-![](../../images/monthly_no_image.png) |
-_Author [Author Name](URI_to_author_profile) on Month Date#_ |
-**Subtitle** Description of the content in the news. |
-[Read More](URI_to_news) |
+[**That Planning Suite Interview**]( https://blog.aragon.org/nest-team-interviews-that-planning-suite/ ) | [**The Decentralized Org Structure**]( https://medium.com/@consensys_uni/the-decentralized-org-structure-376bee0544cf ) | [**Working in Decentralized Environments**]( https://medium.com/@consensys_uni/working-in-decentralised-environments-d155e3634cbf )
+|:-----------:|:-----------:|:-----------:|
+_Authors: [Maria Gomez]( https://blog.aragon.org/author/maria/ ), [Tatu Kärki]( https://blog.aragon.org/author/tatu/ ) on SEP 6_ | _Author: [Sean Taheri]( https://medium.com/@lkngtn ) on SEP 4_ | _Author: [Yong Jun Ming]( https://medium.com/@yongjunming_12604 ) on SEP 4_
+**The first one on our Aragon Nest Team Interviews is That Planning Suite who are working on an open source incentivization app.** With this series, we want to bring forth the teams that have received a grant and funding from the Aragon Nest grants program. That Planning Suite was the first team accepted into the program and we're all thrilled to see their suite of apps becoming a part of the Aragon ecosystem. | **In my first month as an intern at ConsenSys,** it has become clear to me that the structure of the company closely resembles that of a blockchain system, which is coincidental because that’s what we’re all working so hard to build and grow here. | **One of the great promises of blockchain and ethereum is decentralisation.** In this post, I shall be sharing what working in a decentralised remote-first environment is like, with emphasis on the challenges and the adaptations I experienced.
+[Read More]( https://blog.aragon.org/nest-team-interviews-that-planning-suite/ ) | [Read More]( https://medium.com/@consensys_uni/the-decentralized-org-structure-376bee0544cf ) | [Read More]( https://medium.com/@consensys_uni/working-in-decentralised-environments-d155e3634cbf )
 
-| | |  
-:-----------:|:-----------:|:-----------:|  
-| | |  
-| | |  
-| | |  
-| | |  
-| | |  
+[**Aragon at ETHBerlin**]( https://blog.aragon.org/aragon-at-ethberlin/ ) | [**Thoughts on Liberal Radicalism**]( https://medium.com/@lkngtn/thoughts-on-liberal-radicalism-2c76eaa397ec ) | [**TCRs: Features and Tradeoffs**]( https://multicoin.capital/2018/09/05/tcrs-features-and-tradeoffs/ )
+|:-----------:|:-----------:|:-----------:|
+_Author: [Tatu Kärki]( https://blog.aragon.org/author/tatu/ ) on SEP 5_ | _Author: [Luke Duncan]( https://medium.com/@lkngtn ) on SEP 5_ | _Author: [Tushar Jain]( https://multicoin.capital/tushar-jain/ ) on SEP 5_
+**Hey, hey, heeey! This is Aragon and we are coming to ETHBerlin, Berlin!** We are so excited, so happy, really so thrilled to be Tier 5 – The Carlos Matos sponsor of the hackathon. Our mentors are coming, and they are coming in waves! Let me tell you, that we started 92 days ago with only one goal in mind. And right now, we are reaching that goal of being a part of the astonishing and inspiring ETHBerlin hackathon. | **In their new paper Vitalik Buterin, Zoe Hitzig, and E. Glen Weyl propose a mechanism for a more efficient allocation of resources towards public goods.** The mechanism, called Liberal Radical (LR), seeks to create “formal rules for a society neutral among communities”. Which essentially means a way for a society to deploy collective resources towards public goods while remaining neutral with regard to its constituents often competing preferences. | **Token Curated Registries (TCRs) are an idea that gained a fair amount of traction** within the cryptocurrency community throughout late 2017 and early 2018. While the idea has yet to be implemented at any meaningful scale, there are a few TCRs live on the Ethereum mainnet and over a dozen projects are considering building TCRs in some form.
+[Read More]( https://blog.aragon.org/aragon-at-ethberlin/ ) | [Read More]( https://medium.com/@lkngtn/thoughts-on-liberal-radicalism-2c76eaa397ec ) | [Read More]( https://multicoin.capital/2018/09/05/tcrs-features-and-tradeoffs/ )
 
-| | |  
-:-----------:|:-----------:|:-----------:|  
-| | |  
-| | |  
-| | |  
-| | |  
-| | |  
+[**Building a decentralized OS**]( https://blog.aragon.org/building-a-decentralized-os/ ) | [**Nest Team Interviews: Pando**]( https://blog.aragon.org/nest-team-interviews-pando/ ) | [**Using APM to replace NPM**]( https://blog.aragon.one/using-apm-to-replace-npm-and-other-centralized-package-managers/ )
+|:-----------:|:-----------:|:-----------:|
+_Author: [Luis Cuende]( https://blog.aragon.org/author/luis/ ) on SEP 7_ | _Authors: [Maria Gomez]( https://blog.aragon.org/author/maria/ ), [Tatu Kärki]( https://blog.aragon.org/author/tatu/ ) on SEP 13_ | _Author: [Luis Cuende]( https://blog.aragon.org/author/luis/ ) on SEP 18_
+**How we built an Ethereum operating system that is upgradeable, secure and easy to use** For users, Aragon Core is the easiest way to create unstoppable organizations. The UI abstracts away technical details, and lets the user focus on what matters. | **The second of our Aragon Nest Team Interviews is with Pando who are also working on an open source incentivization app.** With this series, we want to bring forth the teams that have received a grant and funding from the Aragon Nest grants program. Pando, when complete, will be a big step towards decentralization of development for all. | **APM stands for Aragon Package Manager.** The summary is that APM is a decentralized package manager. APM handles the upgreadability of smart contracts as well as arbitrary data blobs.
+ [Read More]( https://blog.aragon.org/building-a-decentralized-os/ ) | [Read More]( https://blog.aragon.org/nest-team-interviews-pando/ ) | [Read More]( https://blog.aragon.one/using-apm-to-replace-npm-and-other-centralized-package-managers/ )
 
-## [Submit News!](../guides/guide_for_submitting_news.md)
+[**Blockchain Governance Reading List**]( https://medium.com/provably-neutral/blockchain-governance-710abb823d60 ) | [**Community Update #1**]( https://blog.aragon.org/aragon-community-update-1/ )
+|:-----------:|:-----------:|
+_Author: [Spencer Noon]( https://medium.com/@spencernoon ) on SEP 16_ | _Author: [John Light]( https://blog.aragon.org/author/light/ ) on SEP 26_ 
+**If you follow me on Twitter, you know that I spend a lot of time thinking about governance.** For today’s post, I picked out some of my favorite articles that I would recommend reading if you’re looking to get smart on the subject. | **Welcome to the first Aragon community update!** We’ve had a lot going on in the foreground and background of the community since I first joined as Community Lead last year and I’m excited to share some of what we’ve been up to.
+[Read More]( https://medium.com/provably-neutral/blockchain-governance-710abb823d60 ) | [Read More]( https://blog.aragon.org/aragon-community-update-1/ )
+ 
+[**Why We Need Web 3.0**]( https://medium.com/@gavofyork/why-we-need-web-3-0-5da4f2bf95ab ) | [**Blockchain Governance 101**]( https://medium.com/@Vlad_Zamfir/blockchain-governance-101-eea5201d7992 )
+|:-----------:|:-----------:|
+_Author: [Gav Would]( https://medium.com/@gavofyork ) on SEP 12_ | _Author: [Vlad Zamfir]( https://medium.com/@Vlad_Zamfir ) on SEP 29_ 
+**Ethereum co-founder Gavin Wood on why today’s internet is broken — and how we can do better next time around.** | **There’s a lot of confusion about blockchain governance.** I hope that this situation will improve with more public understanding of the basics of blockchain governance, the possible governance outcomes, and how they can most effectively participate in blockchain governance.
+[Read More]( https://medium.com/@gavofyork/why-we-need-web-3-0-5da4f2bf95ab ) | [Read More]( https://medium.com/@Vlad_Zamfir/blockchain-governance-101-eea5201d7992 )
+
+
+## [Submit News!]( https://monthly.aragon.one/guides/guide_for_submitting_news/ )
+
